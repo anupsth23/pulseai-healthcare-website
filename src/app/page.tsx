@@ -398,7 +398,7 @@ export default function Home() {
               </span>
             </h2>
             <p className="text-lg text-gray-400 max-w-3xl mx-auto">
-              Real-world results from healthcare organizations using PulseAI's intelligent patient check-in system
+              Real-world results from healthcare organizations using PulseAI&apos;s intelligent patient check-in system
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
